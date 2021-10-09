@@ -1,0 +1,21 @@
+[uDD::Log][2021-10-09 04:09:04] Start
+[uDD::Log][2021-10-09 04:09:04] OS Version    : 10.0
+[uDD::Log][2021-10-09 04:09:04] Build Number  : 19043
+[uDD::Log][2021-10-09 04:09:04] Service Pack  : 
+[uDD::Log][2021-10-09 04:09:04] Graphics Card [0] : NVIDIA GeForce GTX 1660 SUPER
+[uDD::Log][2021-10-09 04:09:04]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2021-10-09 04:09:04]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2021-10-09 04:09:04] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2021-10-09 04:09:04] Monitor::Initialized() =>
+[uDD::Log][2021-10-09 04:09:04]     ID    : 0
+[uDD::Log][2021-10-09 04:09:04]     Size  : (1920, 1080)
+[uDD::Log][2021-10-09 04:09:04]     DPI   : (91, 91)
+[uDD::Log][2021-10-09 04:09:04]     Rot   : Landscape
+[uDD::Log][2021-10-09 04:09:04] Duplicator::Initialize() => OK.
+[uDD::Log][2021-10-09 04:09:04] Monitor::Initialized() =>
+[uDD::Log][2021-10-09 04:09:04]     ID    : 1
+[uDD::Log][2021-10-09 04:09:04]     Size  : (1280, 1024)
+[uDD::Log][2021-10-09 04:09:04]     DPI   : (86, 86)
+[uDD::Log][2021-10-09 04:09:04]     Rot   : Landscape
+[uDD::Log][2021-10-09 04:09:04] Duplicator::Initialize() => OK.
+[uDD::Log][2021-10-09 10:28:30] Stop
