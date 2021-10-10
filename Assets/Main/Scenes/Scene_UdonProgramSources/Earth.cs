@@ -6,7 +6,7 @@ using VRC.Udon;
 
 public class Earth : UdonSharpBehaviour
 {
-    public float RotateSpeed;
+    [SerializeField] float RotateSpeed;
 
     void Update()
     {
